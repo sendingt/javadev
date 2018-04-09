@@ -16,6 +16,6 @@ public class Programmer extends Employee{
 	   System.out.println("Bonus of Programmer is:"+p.bonus);  
 	} 
 	 
-	 public String 
+	// public String 
 
 }
